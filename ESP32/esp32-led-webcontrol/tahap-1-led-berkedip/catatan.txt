@@ -1,1 +1,1 @@
-
+pada tahap ini menguji esp32 apakah led pada boardnya berfungsi atau tidak
