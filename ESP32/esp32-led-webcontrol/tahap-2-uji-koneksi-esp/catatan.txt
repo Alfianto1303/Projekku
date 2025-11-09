@@ -1,1 +1,2 @@
-
+Pada tahap ini dilakukan pengujian sederhana apakah esp32 bisa melakukan koneksi ke internet dengan cara menyalakan led melalui website
+Proses pada tahap ini yaitu esp32 berfungsi sebagai server dan untuk menyalakan led melalui IP yang disediakan oleh esp32
