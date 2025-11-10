@@ -1,4 +1,4 @@
-const endpoint = "http://192.168.100.37";
+const endpoint = "http://171.205.679.30";
 
 function getEsp() {
     fetch(endpoint + "/esp", {
@@ -21,5 +21,6 @@ function setEsp() {
         method: "POST"
     }).then(response => response.text()).then(() => location.reload()); 
 }
+
 
 getEsp();
