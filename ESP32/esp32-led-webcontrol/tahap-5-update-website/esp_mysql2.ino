@@ -39,5 +39,5 @@ void loop() {
     }
     http.end();
   }
-  delay(3000); // cek setiap 3 detik
+  delay(3000);
 }
