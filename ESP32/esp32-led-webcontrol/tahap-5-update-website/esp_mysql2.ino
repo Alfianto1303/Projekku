@@ -1,11 +1,11 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "WIFIKU1";
-const char* password = "gajahmada6";
+const char* ssid = "HPKU";
+const char* password = "12345678";
 
-const char* server = "http://192.168.100.16/website/get_led_status.php"; // Ganti IP dengan IP server lokal kamu
-const int ledPin = 2; // D4 pada NodeMCU
+const char* server = "http://171.205.679.30/website/get_led_status.php";
+const int ledPin = 2;
 
 void setup() {
   pinMode(ledPin, OUTPUT);
