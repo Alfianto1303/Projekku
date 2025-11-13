@@ -1,2 +1,3 @@
 Pada tahap ini membuat tampilan website lebih menarik.
 Lampu yang terkoneksi di ESP32 hanya "Lampu 1" dengan ditunjukkan pada gambar "Tampilan Website Baru1" pada saat mati dan gambar "Tampilan Website Baru1a" pada saat menyala.
+Pada tahap ini tampilan yang menunjukkan hasil sensor SHT10 atau sensor suhu dan kelembapan belum difungsikan hanya untuk model saja.
