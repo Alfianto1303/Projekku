@@ -1,0 +1,6 @@
+CREATE TABLE led_status (
+  id INT(1) PRIMARY KEY,
+  status_led TINYINT(1) NOT NULL
+);
+
+INSERT INTO led_status (id, status_led) VALUES (1, 0);
